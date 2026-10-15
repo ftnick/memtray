@@ -3,8 +3,8 @@
 <p align="center">RAM usage tray app written in Rust.</p>
 
 <p align="center">
-  <a href="https://github.com/ftnick/memtray/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ftnick/memtray" alt="License"></a>
-  <a href="https://github.com/ftnick/memtray/commits/main"><img src="https://img.shields.io/github/last-commit/ftnick/memtray" alt="Last commit"></a>
+  <a href="https://github.com/ftnick/memtray/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ftnick/memtray" alt="License"></a>
+  <a href="https://github.com/ftnick/memtray/commits/master"><img src="https://img.shields.io/github/last-commit/ftnick/memtray" alt="Last commit"></a>
 </p>
 
 <p align="center">
