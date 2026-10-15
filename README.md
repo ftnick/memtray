@@ -1,8 +1,6 @@
 # memtray
 
-[![CI](https://github.com/ftnick/memtray/actions/workflows/ci.yml/badge.svg)](https://github.com/ftnick/memtray/actions/workflows/ci.yml)
-
-Lightweight RAM usage tray app written in Rust.
+RAM usage tray app written in Rust.
 
 Build
 
@@ -19,5 +17,3 @@ cargo run --release
 # open history window
 cargo run --release -- --history
 ```
-
-License: MIT
