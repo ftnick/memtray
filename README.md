@@ -1,19 +1,32 @@
-# memtray
+<h1 align="center">memtray</h1>
 
-RAM usage tray app written in Rust.
+<p align="center">RAM usage tray app written in Rust.</p>
 
-Build
+<p align="center">
+  <a href="https://github.com/ftnick/memtray/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ftnick/memtray" alt="License"></a>
+  <a href="https://github.com/ftnick/memtray/commits/main"><img src="https://img.shields.io/github/last-commit/ftnick/memtray" alt="Last commit"></a>
+</p>
+
+<p align="center">
+  <img width="204" height="45" alt="preview" src="https://github.com/user-attachments/assets/a8c6a3f5-fc3f-4e35-b45e-a7bcb44730d1" />
+</p>
+
+## Build
 
 ```bash
 cargo build --release
 ```
 
-Run
+## Run
 
 ```bash
-# run the tray app
 cargo run --release
+```
 
-# open history window
-cargo run --release -- --history
+## Development
+
+```bash
+cargo fmt
+cargo clippy --all-targets
+cargo build --release
 ```
