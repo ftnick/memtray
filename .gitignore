@@ -1,0 +1,11 @@
+target/
+**/target/
+**/*.rs.bk
+.vscode/
+.idea/
+.DS_Store
+node_modules/
+dist/
+/*.log
+/target
+/scripts

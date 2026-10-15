@@ -1,0 +1,2 @@
+# RAM usage percentage at which to trigger a notification
+alert_threshold = 80
